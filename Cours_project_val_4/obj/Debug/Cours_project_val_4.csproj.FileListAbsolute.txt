@@ -1,0 +1,109 @@
+F:\Документы\Программы\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+I:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+F:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+E:\Вика\ООП\2_курс\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+C:\Users\Night Knight\Desktop\OOP_Lab_2\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+C:\Users\Tory\Desktop\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+I:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
+E:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+E:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+E:\Cours_project_val_4_\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe.config
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.exe
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.pdb
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.exe
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\bin\Debug\Cours_project_val_4.pdb
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csprojResolveAssemblyReference.cache
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormMain.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormAddNew.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRentalDisk.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequest.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormRequestList.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormListDisk.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.FormShow.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.Properties.Resources.resources
+H:\Вика\1_2_курс\ООП\2_курс\Курсач\Cours_project_val_4\Cours_project_val_4\Cours_project_val_4\obj\Debug\Cours_project_val_4.csproj.GenerateResource.Cache
